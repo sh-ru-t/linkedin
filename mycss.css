@@ -1,0 +1,278 @@
+#colorheading{
+    color: #b24020;
+    font-size: 56px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: lighter;
+}
+*{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#headings{
+    font-size: 42px;
+  
+    font-weight: 350;
+}
+
+.loginform{
+width: 50%;
+margin-left: 30px;
+}
+.image1{
+    width: 50%;
+    max-width:100%;
+    height:auto;
+}
+.loginform >button{
+    border-style: solid;
+    border-radius: 25px;
+    padding: 10px 130px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.loginform> form> #sign{
+    
+    border: none;
+    border-radius: 25px;
+    padding: 12px 190px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+}
+.loginform> form> input{
+    width: 60%;
+    /*height width*/
+    padding: 12px 20px;
+    /*top bottom*/
+    margin: 8px 0;
+}
+
+
+.container2{
+  display: flex; 
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 40px;
+}
+
+.section2one{
+    float:left;
+   
+}
+.section2two > a{
+    border-style: solid;
+    border-radius: 25px;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    
+
+}
+.section2two{
+    
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 500px;
+    justify-content: flex-start;
+    position: absolute;
+    margin-top: 20px;
+   
+}
+
+.container3{
+    display: flex; 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 40px;
+}
+.section3one{
+    float:left;
+   
+}
+
+.section3two > a{
+    border-style: solid;
+    border-radius: 25px;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+.section3two{
+
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 500px;
+    justify-content: flex-start;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.container4{
+    display: flex; 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 40px;
+}
+
+.section4two > a{
+    border-style: solid;
+    border-radius: 25px;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+.section4two{
+
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 500px;
+    justify-content: flex-start;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.section4one{
+    float:left;
+   
+}
+
+.container5{
+    display: flex; 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 40px;
+}
+
+.section5one{
+    float:left;
+   
+}
+
+.section5two{
+
+    float: right;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 500px;
+    justify-content: flex-start;
+    position: absolute;
+    margin-top: 20px;
+}
+
+.section5two > a{
+    border-style: solid;
+    border-radius: 25px;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+.container6{
+    display: flex; 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 40px;
+}
+
+.section6one{
+    float:left;
+   
+}
+.section6two{
+    float: right;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.section6two> img{
+max-width: 70%;  
+height: auto;  
+}
+
+.container7{
+    display: flex; 
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 40px;
+}
+
+.section7one{
+    float:left;
+    width:50%;
+    margin-left: 30px;
+    margin-top: 30px
+   
+}
+.section7two{
+    float: right;
+    width:50%;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+.section7one> a{
+    border-style: solid;
+    border-radius: 25px;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    
+    }
+.section7two> a{
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+     
+}
+
+.section7two> img{
+    max-width: 33%;  
+    height: auto;  
+    }
+    
+    .section7two> img{
+        max-width: 85%;  
+        height: auto;  
+        }
+        
